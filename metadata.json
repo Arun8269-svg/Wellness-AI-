@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy  of (Arun Wellness AI )",
+  "description": "A comprehensive health application to track fitness, nutrition, and mental well-being using AI-powered insights. Log meals for nutritional analysis, generate personalized workout plans, and access mindfulness exercises on demand.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
